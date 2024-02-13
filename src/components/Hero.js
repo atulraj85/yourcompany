@@ -21,13 +21,15 @@ export default function Hero() {
                         </span>
                     </div>
 
-                    <Link></Link>
+                    <Link to="/form">
                     <button class="button is-large is-primary mt-6" >
                         <span class="icon is-medium">
                             <i class="fa fa-building"></i>
                         </span>
                         <span>List Your Company</span>
                     </button>
+
+                    </Link>
                 </div>
             </section>
         </div>
