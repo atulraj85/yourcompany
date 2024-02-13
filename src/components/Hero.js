@@ -10,7 +10,7 @@ export default function Hero() {
                         Company Listing
                     </p>
                     <p class="subtitle">
-                        A List of Companies Curated By YourCompany Club
+                        A List of Companies Curated By YourCompany Club.
                     </p>
 
                     <div class="control has-icons-left has-icons-right">

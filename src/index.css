@@ -16,6 +16,11 @@ code {
     monospace;
 }
 
+
+.App {
+  text-align: center;
+}
+
 .description {
   overflow: hidden;
   display: -webkit-box;
