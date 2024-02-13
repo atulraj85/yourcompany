@@ -1,4 +1,5 @@
 import React from 'react'
+import { Link } from 'react-router-dom/dist'
 
 export default function Hero() {
     return (
@@ -20,7 +21,7 @@ export default function Hero() {
                         </span>
                     </div>
 
-
+                    <Link></Link>
                     <button class="button is-large is-primary mt-6" >
                         <span class="icon is-medium">
                             <i class="fa fa-building"></i>
